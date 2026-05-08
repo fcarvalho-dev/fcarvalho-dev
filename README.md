@@ -1,16 +1,19 @@
-## Hi there 👋
+# Felipe Carvalho — Fullstack Developer
 
-<!--
-**fcarvalho-dev/fcarvalho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Fullstack focado em TypeScript, Python e integração com IA.
+Estudante de ADS na UNINASSAU (Salvador, BA).
 
-Here are some ideas to get you started:
+## Stack principal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** Next.js · React · Tailwind CSS  
+**Backend:** FastAPI · Node.js · PostgreSQL  
+**Infra/Async:** Redis · Celery · Docker  
+**Auth/Segurança:** OAuth2 · JWT · OWASP  
+
+## Em construção
+
+- **Spamurai** — gerenciador de inbox com IA (Next.js 15 + FastAPI + Groq AI + Google OAuth2)
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Carvalho-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/felipe-santos-2389633b7)
