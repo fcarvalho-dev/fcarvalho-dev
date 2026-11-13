@@ -10,7 +10,7 @@
 ---
 
 ### Sobre
-Desenvolvo aplicações web e mobile de ponta a ponta, do banco ao layout, com foco em segurança (OWASP, autenticação, RLS). Venho da área da saúde: anos em hospital de grande porte me deram olhar para processo, dados sensíveis e usuários reais.
+Desenvolvo aplicações web e mobile de ponta a ponta, do banco ao layout, com foco em segurança (OWASP, autenticação, RLS). Venho da área da saúde: desde 2023 em hospitais de grande porte (radiologia e hoje administrativo no Hospital Santa Izabel, com MV, NEOH e MEDT), o que me deu olhar para processo, dados sensíveis e usuários reais.
 
 ### Projetos em destaque
 | Projeto | O que é | Stack |
