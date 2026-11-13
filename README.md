@@ -2,7 +2,7 @@
 <p align="center"><b>Desenvolvedor Full Stack</b> · TypeScript · React · Node.js · Python · PostgreSQL · AppSec<br>Salvador, BA · Análise e Desenvolvimento de Sistemas</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/felipe-santos-2389633b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/felipe-carvalho-2389633b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:carvalho.felipe92@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?logo=gmail&logoColor=white"></a>
   <a href="https://promessafc.vercel.app"><img src="https://img.shields.io/badge/PROMESSA-jogar-0B8F4D"></a>
 </p>
